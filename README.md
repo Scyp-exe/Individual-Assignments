@@ -1,5 +1,5 @@
 <h2>Individual Assignments</h2>
-<h6>Click "View raw" within each lab to download labs.</h6>
+<h6>Click "View raw" within each lab to download assignments.</h6>
 Here you can find downloadable documents of every individual assignment that I've turned in this semester. 
 These assignments range from describing binary numbers to what you may find on the internet about yourself.
 <br>
